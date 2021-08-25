@@ -27,7 +27,7 @@ This is an Shuffle-Sort application made with HTML, CSS and Javascript (ES6). Ch
 3. 	Use can check the output in below ways :-
       - Either user can directly view from HTML file (on Right link => open with {{ Chrome}}
       ).
-      - User can hit the url shuffle-sort.html as code is linked with the codesandbox(git repo is integrated with the codesandbox to see the output).
+      - User can hit the url https://1pqx9.csb.app/shuffle-sort.html as code is linked with the codesandbox(git repo is integrated with the codesandbox to see the output).
 
 ##### _No libraries and frameworks are involved._
 
